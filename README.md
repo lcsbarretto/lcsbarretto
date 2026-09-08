@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Lucas Barreto!
 
-### 👨‍💻 Analista de Implantação | Desenvolvedor
+### 👨‍💻 Analista de Implantação | Desenvolvedor | QA
 
 [![GitHub](https://img.shields.io/badge/GitHub-lcsbarretto-181717?style=for-the-badge\&logo=github)](https://github.com/lcsbarretto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Barreto-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucas-barreto-magalh%C3%A3es-a265a51a1/)
@@ -99,16 +99,6 @@ Projeto desenvolvido para automatizar a validação de telas e fluxos de sistema
 O objetivo é reduzir verificações manuais e facilitar a identificação de problemas durante testes e validações.
 
 **Tecnologias:** Python • Selenium • Automação Web
-
----
-
-### 🤖 SuricatoBot
-
-Bot desenvolvido para auxiliar equipes de suporte na consulta de documentação e procedimentos técnicos.
-
-A solução organiza informações técnicas e facilita o acesso aos materiais necessários durante o atendimento.
-
-**Tecnologias:** Python • Telegram Bot API • JSON
 
 ---
 
