@@ -104,18 +104,6 @@ Projeto desenvolvido para automatizar a validação de telas e fluxos de sistema
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsbarretto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsbarretto&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -131,16 +119,6 @@ Projeto desenvolvido para automatizar a validação de telas e fluxos de sistema
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lcsbarretto\&theme=tokyo-night)
 
 </div>
 
