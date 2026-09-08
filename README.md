@@ -92,21 +92,15 @@ Utilizo principalmente Python para desenvolver ferramentas envolvendo:
 
 ## 📌 Projetos
 
-### 🔍 Validador de Telas
-
-Projeto desenvolvido para automatizar a validação de telas e fluxos de sistemas.
-
-O objetivo é reduzir verificações manuais e facilitar a identificação de problemas durante testes e validações.
-
-**Tecnologias:** Python • Selenium • Automação Web
-
 ---
 
 ### 🖥️ Scriptcase Monitor
 
 Ferramenta voltada para testes e monitoramento de telas desenvolvidas em Scriptcase.
+O objetivo é reduzir verificações manuais e facilitar a identificação de problemas durante testes e validações.
+Projeto desenvolvido para automatizar a validação de telas e fluxos de sistemas.
 
-**Tecnologias:** Automação Web • Testes • Scriptcase
+**Tecnologias:** Automação Web • Testes • Scriptcase • Python • Selenium • Automação Web
 
 ---
 
